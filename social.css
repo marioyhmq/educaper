@@ -1,0 +1,49 @@
+
+/* redes ------------------------- */
+#redes{
+    position:fixed;
+    z-index:10000;
+    top:200px;
+    left:0px;
+  }
+  
+  #facebook a{
+    font-size: 20px;
+    background: blue;
+    padding:15px 18px;
+    text-decoration: none;
+    color: white;
+    transition:0.5s ease-out;
+  }
+  #facebook a:hover{
+    background: black;
+    padding:23px 30px;
+    transition:0.5s ease-out;
+  }
+  #instagram a{
+    font-size: 18px;
+    background:rgb(237, 162, 162);
+    padding:15px 20px;
+    text-decoration: none;
+    color: white;
+    transition:0.5s ease-out;
+  }
+  #instagram a:hover{
+    background: black;
+    padding:23px 30px;
+    transition:0.5s ease-out;
+  }
+  #linkedin a{
+    font-size: 20px;
+    background:rgb(21, 126, 168);
+    padding:15px 19.5px;
+    text-decoration: none;
+    color: white;
+    transition:0.5s ease-out;
+  }
+  #linkedin a:hover{
+    background: black;
+    padding:23px 30px;
+    transition:0.5s ease-out;
+  }
+  
